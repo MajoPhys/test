@@ -5,7 +5,7 @@ Just testing github repo feature.
 
 *italics*
 
-[Github link] (https://en.wikipedia.org/wiki/GitHub)
+[Github link](https://en.wikipedia.org/wiki/GitHub)
 
 
 
